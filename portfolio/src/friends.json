@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Talk Geeky to Me",
+    "image": "https://static1.squarespace.com/static/555c0d54e4b01cd0e3be909a/t/572ac43acf80a1c1b36ac7d2/1462420545354/?format=1500w",
+    "github": "https://github.com/carabunnell/project_one_ucsd",
+    "site": "https://carabunnell.github.io/project_one_ucsd/"
+  },
+  {
+    "id": 2,
+    "name": "Weather Dashboard",
+    "image": "https://i.guim.co.uk/img/media/49609245a866b0c0c67154598ad6185aa24ade6e/57_52_802_956/master/802.jpg?width=700&quality=85&auto=format&fit=max&s=5a10047435dee5c6b042582c61fa6778",
+    "github": "https://github.com/carabunnell/weather_dashboard",
+    "site": "https://carabunnell.github.io/weather_dashboard/"
+  },
+  {
+    "id": 3,
+    "name": "Work-Day-Scheduler",
+    "image": "https://workshops.uncg.edu/wp-content/uploads/2019/12/Scheduling.png",
+    "github": "https://github.com/carabunnell/work_day_scheduler",
+    "site": "https://carabunnell.github.io/work_day_scheduler/"
+  }
+]
