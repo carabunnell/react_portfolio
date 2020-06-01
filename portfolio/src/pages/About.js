@@ -3,7 +3,7 @@ import Hero from "../components/Hero";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import mainPic from "../img/mainpic.jpg";
+// import mainPic from "../img/mainpic.jpg";
 
 function About() {
   return (

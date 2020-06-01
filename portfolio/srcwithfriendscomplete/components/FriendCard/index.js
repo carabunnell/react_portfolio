@@ -18,7 +18,7 @@ function FriendCard(props) {
             <a href={props.site}><strong>Deployed Site</strong></a>
           </li>
           <li>
-            <a href={props.github}>Visit Repo:</a>
+            <a href={props.github}>Visit Repo</a>
             </li>
         </ul>
       </div>
